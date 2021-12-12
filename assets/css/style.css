@@ -139,4 +139,8 @@
     font-family: Gotcham;
     src: url(/assets/fonts/Gotham-Black.otf);
   }
+
+  .topscreen {
+    margin-top: 8%;
+  }
   
