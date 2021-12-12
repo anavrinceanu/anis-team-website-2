@@ -156,3 +156,29 @@
   .mtgeneral {
     margin-top: 150px;
   }
+
+  .meetbutton {
+    width: 25%;
+    height: 30px;
+    background-color: #f0453f;
+    color: white;
+    font-family: Gotcham;
+    border: none;
+    font-size: 1vw;
+    border-radius: 20px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .meetbutton {
+      font-size: 3vw;
+    }
+  }
+
+
+  .mebutton {
+    margin-right: 80px;
+  }
+
+  .meetbu {
+    margin-left: 80px;
+  }
