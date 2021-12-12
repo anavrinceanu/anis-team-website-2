@@ -182,3 +182,32 @@
   .meetbu {
     margin-left: 80px;
   }
+
+  .thinking {
+    margin-right: 80px;
+  }
+
+  .emperor {
+    margin-left: 80px;
+  }
+
+  .thinking, .emperor {
+    width: 25%;
+    height: 50px;
+    background-color: #1f3a54;
+    color: white;
+    font-family: Gotcham;
+    border: none;
+    font-size: 1vw;
+    border-radius: 20px;
+  }
+
+  .emperor {
+    margin-right: 20px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .thinking, .emperor {
+      font-size: 3vw;
+    }
+  }
