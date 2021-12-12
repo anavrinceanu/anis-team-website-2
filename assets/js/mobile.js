@@ -31,10 +31,12 @@ menuClose5.addEventListener("click", () => {
 menuClose4.addEventListener("click", () => {
   overlay.classList.remove("overlay--active");
 });
-<<<<<<< HEAD
-=======
 menuClose6.addEventListener("click", () => {
   overlay.classList.remove("overlay--active");
 });
->>>>>>> 5ce4141c483b905342e0b894aeda7b5605d35216
 
+function show_alert() 
+{     
+  var comment = document.getElementById('myname').value;
+  document.getElementById('sugetipula').innerHTML = comment;
+} 
