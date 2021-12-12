@@ -150,6 +150,9 @@
   }
 
   h1 {
-    font-family: Gotcham;
+    font-family: Gotchamlight;
   }
   
+  .mtgeneral {
+    margin-top: 150px;
+  }
