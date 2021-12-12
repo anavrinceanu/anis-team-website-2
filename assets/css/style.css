@@ -140,6 +140,11 @@
     src: url(/assets/fonts/Gotham-Black.otf);
   }
 
+  @font-face {
+    font-family: Gotchamlight;
+    src: url(/assets/fonts/GothamBook.ttf);
+  }
+
   .topscreen {
     margin-top: 8%;
   }
